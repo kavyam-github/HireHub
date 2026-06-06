@@ -14,18 +14,6 @@ A beautiful, modern, and reactive Flutter application that pulls live job listin
 *   **Exit Verification**: Double-back press verification on the dashboard prevents accidental app exits.
 *   **Hero Animations**: Seamless transitions between the job list and detailed inspector view.
 
----
-
-## 📸 Screenshots
-
-| Job Dashboard | Job Detail Inspector | Translation Feature |
-| :---: | :---: | :---: |
-| _[Add Dashboard SS Here]_ | _[Add Details SS Here]_ | _[Add Translation SS Here]_ |
-
-> *Tip: You can easily upload screenshots by dragging and dropping your images directly into this README file on GitHub.*
-
----
-
 ## 🛠️ Architecture & SOLID Principles
 
 This project serves as a showcase of clean code standards:
